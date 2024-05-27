@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ShowKind"],"struct":["ShowColumns","ShowCreateTable","ShowDatabases","ShowIndex","ShowTables","ShowVariables"]};

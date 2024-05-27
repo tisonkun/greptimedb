@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["ESTIMATED_WAL_FACTOR"],"enum":["RegionState"],"mod":["opener","options","version"],"struct":["ManifestContext","MitoRegion","RegionMap","RegionUsage"],"type":["ManifestContextRef","MitoRegionRef","RegionMapRef"]};

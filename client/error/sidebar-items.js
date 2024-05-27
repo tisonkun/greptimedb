@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Error"],"struct":["ClientStreamingSnafu","ColumnDataTypeSnafu","ConvertFlightDataSnafu","CreateChannelSnafu","CreateTlsChannelSnafu","FlightGetSnafu","HandleRequestSnafu","IllegalDatabaseResponseSnafu","IllegalFlightMessagesSnafu","IllegalGrpcClientStateSnafu","MissingFieldSnafu","RegionServerSnafu","ServerSnafu"],"type":["Result"]};

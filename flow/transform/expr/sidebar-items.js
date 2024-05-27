@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["typename_to_cdt"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["TABLE_REGION_KEY_PATTERN","TableRegionKey","TableRegionValue"],"type":["RegionDistribution"]};

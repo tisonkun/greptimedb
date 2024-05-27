@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["metrics","wal_bench"]};

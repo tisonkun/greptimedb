@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DB_OPT_KEY_TTL","ENGINE","EXPIRE","MAXVALUE","SINK","WHEN"],"fn":["ensure_exprs_are_binary","ensure_one_expr","ensure_partition_columns_defined","get_real_timestamp_type","validate_database_option","validate_partitions","validate_time_index"]};

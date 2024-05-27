@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["RegionRole","ScannerPartitioning","SetReadonlyResponse"],"struct":["GrantedRegion","ScannerProperties","SinglePartitionScanner"],"trait":["RegionEngine","RegionScanner"],"type":["RegionEngineRef","RegionScannerRef"]};

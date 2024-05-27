@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["RawEntry"],"trait":["Entry"],"type":["Id"]};

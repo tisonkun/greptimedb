@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["extract_base_info","save_to_mem_store"],"struct":["CollectDatanodeClusterInfoHandler","CollectFrontendClusterInfoHandler"]};
