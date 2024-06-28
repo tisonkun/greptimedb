@@ -199,7 +199,7 @@ impl<C: Access> ReadCache<C> {
                 self.read_remote(inner, &read_key, path, args.clone()),
             )
             .await
-            .map_err(|e| OpendalError::new(e.kind(), &e.to_string()))?;
+            .map_err(|e| OpendalError::new(e.kind(), e.to_string()))?;
 
         match read_result {
             ReadResult::Success(_) => {
@@ -225,7 +225,7 @@ impl<C: Access> ReadCache<C> {
 
                 Err(OpendalError::new(
                     ErrorKind::NotFound,
-                    &format!("File not found: {path}"),
+                    format!("File not found: {path}"),
                 ))
             }
         }
